@@ -1,0 +1,14 @@
+{
+  "name": "typescriptpractice",
+  "version": "0.0.0",
+  "description": "Trying out TS stuff to learn",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Nordan",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "validator": "~3.40.1"
+  }
+}
